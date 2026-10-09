@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ca1f5919d6a378747b98c0bb3b20c9b4
+guid: 9c9c70e4aaf7b8148ba50ad22d2bcd64
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8909737503615680372
-    second: "Hl\xEDna-buttony_0"
+      213: -5247801729338329717
+    second: tlacitko_1_spustit_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -102,23 +102,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "Hl\xEDna-buttony_0"
+      name: tlacitko_1_spustit_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2480
-        height: 3508
+        width: 600
+        height: 200
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 47ffcf0cd0fb5ab70800000000000000
-      internalID: 8909737503615680372
+      spriteID: b85bb1791201c27b0800000000000000
+      internalID: -5247801729338329717
       vertices: []
       indices: 
       edges: []
@@ -127,7 +127,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: caf4ef2558a42d440b6649636ffbf8bf
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -135,13 +135,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceOnImport
-        value: False
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      "Hl\xEDna-buttony_0": 8909737503615680372
+      tlacitko_1_spustit_0: -5247801729338329717
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

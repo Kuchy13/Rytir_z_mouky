@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 0bcd3839a552a2148b34062ac27853e4
+guid: 82b7de988b6d6984bafc1ee1eb687902
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6871742142198808508
-    second: Srdce_0
+      213: -8353424232870395246
+    second: Inventar-pozadi_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -102,13 +102,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Srdce_0
+      name: Inventar-pozadi_0
       rect:
         serializedVersion: 2
-        x: 902
-        y: 379
-        width: 1467
-        height: 1489
+        x: 164
+        y: 1743
+        width: 1070
+        height: 703
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -117,8 +117,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cbf77ddf1155d5f50800000000000000
-      internalID: 6871742142198808508
+      spriteID: 292ce952beca21c80800000000000000
+      internalID: -8353424232870395246
       vertices: []
       indices: 
       edges: []
@@ -127,7 +127,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -137,7 +137,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Srdce_0: 6871742142198808508
+      Inventar-pozadi_0: -8353424232870395246
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
