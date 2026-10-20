@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 34968a82019874c4aa7e5b471c4707a2
+guid: f8fa71bbcc71de948b4e04463897708e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9218331451421812743
-    second: Trava_0
+      213: 9114162946691889004
+    second: trava_grass_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -102,13 +102,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Trava_0
+      name: trava_grass_0
       rect:
         serializedVersion: 2
-        x: 1275
-        y: 1007
-        width: 455
-        height: 230
+        x: 0
+        y: 0
+        width: 256
+        height: 249
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -117,8 +117,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9f71130c268e11080800000000000000
-      internalID: -9218331451421812743
+      spriteID: c67f89e39e20c7e70800000000000000
+      internalID: 9114162946691889004
       vertices: []
       indices: 
       edges: []
@@ -137,7 +137,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Trava_0: -9218331451421812743
+      trava_grass_0: 9114162946691889004
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
